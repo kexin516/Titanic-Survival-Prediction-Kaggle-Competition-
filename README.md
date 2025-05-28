@@ -1,8 +1,12 @@
-# Titanic-Survival-Prediction-Kaggle-Competition-
+# Titanic-Survival-Prediction
 
 ##  Overview
 
 This project addresses the classic binary classification problem: predicting whether a passenger survived the Titanic disaster based on features like age, sex, ticket class, and family connections.
+
+## Kaggle Competition
+
+This project is built as a solution for the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition on Kaggle. The goal is to build models that accurately predict passenger survival using the provided train and test datasets.
 
 ###  Highlights
 
@@ -29,4 +33,4 @@ This project addresses the classic binary classification problem: predicting whe
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/kexin516/Titanic-Survival-Prediction-Kaggle-Competition-.git
+git clone https://github.com/kexin516/Titanic-Survival-Prediction.git
